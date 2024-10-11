@@ -11,9 +11,12 @@ The format used for this purpose is (currently) a PDF file. The PDF file is gene
 * [Data Privacy Collection](./Collection/Data%20Privacy%20PdfBook%20DRAFT%2030-09-2021.pdf) (First Draft)
 * [Cyber Risk Collection](./Collection/Cyber%20Risk%20PdfBook%20DRAFT%2014-10-2021.pdf) (First Draft)
 * [GHG Protocol Collection](./Collection/GHG%20Protocol%20PdfBook%20DRAFT%2027-10-2021.pdf) (First Draft)
+* [Risk Concentration](./Collection/Risk%20Concentration%20DRAFT%2027-10-2021.pdf) (First Draft)
+
+The extracts are still preliminary (including some incomplete entries / stubs). 
 
 
-The extracts are still preliminary (including some incomplete entries / stubs). If you are interested in the PDFBook functionality and would like a particular topic organized feel free to create an issue.
+If you are interested in the PDFBook functionality and would like a particular topic organized feel free to create an issue.
 
 
 
